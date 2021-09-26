@@ -19,3 +19,7 @@ Releasing Holla for the Windows package Chocolatey could be our next step.
 <a href="https://github.com/meforce/discord-ultra/releases/download/v1.0.0/Discord-Ultra-Setup-1.0.0.exe"> 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/meforce/discord-ultra?color=blue&label=CLICK-DOWNLOAD-WINDOWS-EXE&logo=windows&logoColor=white&style=for-the-badge"></a>
 
+
+<br><br>
+<img src="https://raw.githubusercontent.com/meforce/discord-ultra/main/assets/screen.png">
+
